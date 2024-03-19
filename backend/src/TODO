@@ -1,0 +1,36 @@
+Giris/Kayit
+    Tek giris hesabi (admin)
+    Kayitlar direkt olarak database uzerinden acilacak
+    Register dis kaynaktan olmayacak
+
+
+Urunler
+    Listeye Urun ekleme
+    Listeden Urun cikarma
+
+
+Depo
+    Urunleri adedi ile depoya ekleme
+    Urunleri adedi ile depodan azaltma
+    Depoyu excele yazdirma
+
+
+Fatura
+    Teslim edilen urunleri ekleme
+        Urunleri depodan dusme
+    Teslim alinan urunleri ekleme
+        urunleri depoya geri ekleme
+    Fatura state belirleme
+        Teslim Edildi
+        Teslim alindi
+        Fatura incelendi
+        vb.
+
+
+api increse/decrease id siz body kisminda id zaten yer aliyor (belki?)
+
+Lot
+Ubb
+Isim
+
+Urun adedi

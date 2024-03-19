@@ -1,0 +1,31 @@
+.container {
+    padding: 25px;
+}
+
+.login-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.login-button{
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    display: block;
+    background: #636363;
+    width: 30vh;
+    margin: 5px;
+    padding: 15px;
+    color: #FFFFFF;
+    font-size: 14px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+
+li{
+    list-style-type: circle;
+    margin-left: 2em;
+  }
